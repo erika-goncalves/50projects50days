@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #111;
+  background-color: #0c0c0c;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,7 +22,7 @@ body {
 
 .square {
   background-color: #1d1d1d;
-  box-shadow: 0 0 2px #000;
+  box-shadow: 0 0 2px #bc0048;
   height: 16px;
   width: 16px;
   margin: 2px;
@@ -32,3 +32,4 @@ body {
 .square:hover {
   transition-duration: 0s;
 }
+Atividade HTML, CSS e JavaScript
